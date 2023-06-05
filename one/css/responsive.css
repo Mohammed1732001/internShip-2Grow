@@ -1,0 +1,39 @@
+/* Tablet */
+@media screen and (max-width:1150px) and (min-width:770px) {
+    .half-one {
+        width: 100%;
+    }
+
+    .half-two {
+        width: 100%;
+    }
+
+}
+
+
+/* phone */
+@media screen and (max-width:769px) and (min-width:500px) {
+
+    .half-one {
+        width: 100%;
+    }
+
+    .half-two {
+        width: 100%;
+    }
+
+}
+
+
+/* small phone*/
+@media screen and (max-width:499px) {
+
+    .half-one {
+        width: 100%;
+    }
+
+    .half-two {
+        width: 100%;
+    }
+
+}
